@@ -1,0 +1,20 @@
+{
+  "short_name": "CovidCanuck",
+  "name": "CovidCanuck",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "60x60 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "191x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#26282f",
+  "background_color": "#424250"
+}
